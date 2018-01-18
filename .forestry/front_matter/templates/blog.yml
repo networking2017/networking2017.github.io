@@ -8,7 +8,7 @@ fields:
 - type: datetime
   default: Invalid date
 - type: file
-  hidden: true
+  hidden: false
   label: pic here
   name: pic_here
 - type: textarea
