@@ -1,0 +1,16 @@
+---
+hide_body: false
+fields:
+- type: text
+  default: Title
+- type: datetime
+  default: Invalid date
+- type: file
+  hidden: true
+  label: pic here
+  name: pic_here
+- type: textarea
+  hidden: false
+  config:
+    required: false
+    wysiwyg: true
